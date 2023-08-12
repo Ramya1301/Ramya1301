@@ -23,7 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramya1301&show_icons=true&locale=en&layout=compact" alt="ramya1301" /></p>
 
-<p><img align="center" src="![](https://leetcard.jacoblin.cool/leetcode?site=https://leetcode.cn/LeetCode/)" alt="ramya1301" /></p>
-
+![Leetcode Stats]((https://leetcode.com/ramyasrisanaboina/)https://leetcode.com/ramyasrisanaboina/)
 
 
