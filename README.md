@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramya1301&show_icons=true&locale=en&layout=compact" alt="ramya1301" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramya1301&show_icons=true&locale=en" alt="ramya1301" /></p>
+
 
 
 
