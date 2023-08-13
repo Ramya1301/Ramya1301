@@ -27,6 +27,6 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ramyasrisanaboina)
 
-
+[![Ramya's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sanaboinaramyasri02)](https://auth.geeksforgeeks.org/user/sanaboinaramyasri02)
 
 
