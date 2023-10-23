@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramya1301&label=Profile%20views&color=0e75b6&style=flat" alt="ramya1301" /> </p>
 
-- 🌱 I’m currently learning **React Frame Work and Front End development**
+- 🌱 I’m currently learning **Machine learning**
 
 - 📫 How to reach me **20a9a05b6@aec.edu.in**
 
